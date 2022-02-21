@@ -1,0 +1,6 @@
+## ignore the below files
+st
+*.o
+# patch files
+*.orig
+*.rej
